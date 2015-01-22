@@ -4,7 +4,7 @@ Originally created as a final project for Intro to Machine Learning by Matthew
 Hauser and Jade Huang.
 
 ### Description
-naive-twitter tagger is a Naive Bayes classifier that "auto-generates" relevant Twitter hashtags.
+naive-twitter-tagger is a Naive Bayes classifier that "auto-generates" relevant Twitter hashtags.
 Relevancy is determined based on frequency of a word and hashtag occurring
 together as well as frequency of a hashtag.
 This could potentially be useful to help generate descriptive tags for users to
